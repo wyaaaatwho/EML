@@ -11,4 +11,4 @@ I’ve read. I typed this all in Notion myself, so there might be some typo and 
 me know if you get one.
 If you do enjoy this book, please follow me on Github or stick up to my blog.
 
-本书旨在应对中国高校不少非计算机专业但可能会需要学习机器学习的同学参考，目前市面上的书诸如周志华的《机器学习》或者李航的《统计学习方法》或多或少存在一些难度，以及没有必要了解过深的情况。为此主要参考Andrew Ng的课程体系以及周志华和李航老师的书综合写下这本指导书，希望你能喜欢。
+本书旨在供中国高校不少非计算机专业但可能会需要学习机器学习的同学参考，目前市面上的书诸如周志华的《机器学习》或者李航的《统计学习方法》或多或少对于部分同学而言过难，以及其内容很多涉及没有必要了解过深的知识。为此我参考Andrew Ng的课程体系以及周志华和李航老师的书综合写下这本指导书，希望你能喜欢。
